@@ -1,0 +1,4 @@
+# dsh-siliconflow-card bundle patch：挂载到 web profile
+- insert:
+    - id: siliconflow-card
+      name: dsh-siliconflow-card
